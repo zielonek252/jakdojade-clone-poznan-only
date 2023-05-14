@@ -12,6 +12,7 @@
 2. Wybór kierunku jazdy wraz z linią 
  
 ![image](https://github.com/zielonek252/jakdojade-clone-poznan-only/assets/83509587/26171eb6-d2b6-4082-9d93-e5a29fc5049c)
-5. Wskazywanie minut odjazdu i kierunku jazdy
+
+3. Wskazywanie minut odjazdu i kierunku jazdy
 
 ![image](https://github.com/zielonek252/jakdojade-clone-poznan-only/assets/83509587/618fd371-6369-4097-86c2-84803d28d0f2)
