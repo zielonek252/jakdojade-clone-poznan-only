@@ -1,7 +1,8 @@
 # jakdojade-clone-poznan-only
 - MOM, CAN WE HAVE JAKDOJADE?
 - We have jakdojade at home!
-- jakdojade at home: ![image](https://github.com/zielonek252/jakdojade-clone-poznan-only/assets/83509587/c50da362-d840-4408-a312-abfbd47126e9)
+- jakdojade at home: 
+![image](https://github.com/zielonek252/jakdojade-clone-poznan-only/assets/83509587/c50da362-d840-4408-a312-abfbd47126e9)
 
 Aplikacja bazująca na API poznańskiej Peki.
 1. Wybór przystanka po wpisaniu kilku liter / pełnej nazwy
